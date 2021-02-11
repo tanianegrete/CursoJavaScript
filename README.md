@@ -1,2 +1,2 @@
 # CursoJavaScript
-ejercicios 
+Ejercicios 
